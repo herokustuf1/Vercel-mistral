@@ -1,0 +1,13 @@
+{
+  "name": "Vercel-mistral",
+  "version": "1.0.0",
+  "main": "api/bot.js",
+  "scripts": {
+    "start": "node api/bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "@huggingface/inference": "^1.0.0",
+    "telegram-bot-api": "^2.4.9"
+  }
+}
