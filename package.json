@@ -8,6 +8,6 @@
   "dependencies": {
     "node-fetch": "^2.6.1",
     "@huggingface/inference": "^1.0.0",
-    "telegram-bot-api": "^2.4.9"
+    "telegram-bot-api": "^0.57.0"
   }
 }
